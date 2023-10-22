@@ -34,6 +34,9 @@ cd workspace
 cls
 'in workspace' python -m notebook
 
+'to refer to existing workspace'
+dir jupyter_workspace
+
 'in notebook'
 import pandas as pd
 pd.__version__
