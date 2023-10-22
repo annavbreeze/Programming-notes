@@ -1,0 +1,36 @@
+'How to Install Python, Pandas and Jupyter Notebook on Windows 11'
+https://www.youtube.com/watch?v=04yaEzbnbC8
+
+'in search bar'
+cmd
+
+'to know the version of an installed program'
+
+python --version 'or' pip --version
+
+'to download program'
+
+python
+
+'to download pandas'
+pip install pandas
+
+'to clean console'
+cls 
+
+'to see pip packages'
+
+pip freeze
+
+'to download jupyter'
+pip install jupyter
+
+'create python notebook in jupyter and create a csv file with data in a txt file called 'employees.csv''
+
+'in notebook'
+import pandas as pd
+pd.__version__
+df = pd.read_csv('employees.csv')
+
+'to see the read data in the notebook'
+df
