@@ -12,6 +12,9 @@ python --version 'or' pip --version
 
 python
 
+'to know the drirectory'
+dir -s
+
 'to download pandas'
 pip install pandas
 
