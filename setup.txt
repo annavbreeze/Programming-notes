@@ -26,6 +26,7 @@ pip freeze
 pip install jupyter
 
 'create python notebook in jupyter and create a csv file with data in a txt file called 'employees.csv''
+python -m notebook
 
 'in notebook'
 import pandas as pd
